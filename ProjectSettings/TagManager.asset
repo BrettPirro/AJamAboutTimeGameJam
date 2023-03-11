@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ghost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - FlashLight
+  - EnemyGhost
+  - WaterLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3007617525
+    locked: 0
+  - name: Ground
+    uniqueID: 1809228449
+    locked: 0
+  - name: Enemy
+    uniqueID: 3919869593
+    locked: 0
+  - name: Player
+    uniqueID: 1749767669
+    locked: 0
+  - name: Grass
+    uniqueID: 57967425
+    locked: 0
+  - name: Water
+    uniqueID: 1284897165
+    locked: 0
+  - name: Top
+    uniqueID: 4217683911
+    locked: 0

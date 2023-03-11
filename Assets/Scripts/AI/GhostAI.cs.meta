@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 356f67c89954d4e47b5adca525a28590
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - JumpScareCanvas: {instanceID: 0}
+  - Laugh: {fileID: 8300000, guid: 7d2e7e33fca92f94c819dcd62b21f034, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

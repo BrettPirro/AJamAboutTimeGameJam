@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c52d5b37f98b40d408169f40d8cff661
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clip: {fileID: 8300000, guid: 5cd672bbaa1bbcd468cd6ba79507f194, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
